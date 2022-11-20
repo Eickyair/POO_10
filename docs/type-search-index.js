@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"excepcionesPropias","l":"MovimientosException"},{"p":"poop10","l":"POOP10"},{"p":"excepcionesPropias","l":"SaldoInsuficienteException"},{"p":"excepcionesPropias","l":"SaldoMaximoException"}];updateSearchResults();
